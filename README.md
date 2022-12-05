@@ -9,3 +9,6 @@ $ sudo adduser `id -un` kvm
 # hardwares
 - AMD Ryzen5 5600X 6core 12threads
 - Memories 8Gib * 4
+
+# OS
+- Description:	Ubuntu 22.04.1 LTS
